@@ -1,0 +1,4 @@
+weights/
+model/__pycache__/
+data/stage_1/
+data/stage_2/
